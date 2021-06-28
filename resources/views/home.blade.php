@@ -1,1 +1,7 @@
-<h1>Home</h1>
+@extends('layouts.app')
+
+@section('title-block') Home @endsection
+
+@section('content')
+<h5>Home</h5>
+@endsection
